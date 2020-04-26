@@ -1,0 +1,35 @@
+.Finished{
+padding: 20px;
+color: #fff;
+border: 2px solid #fff;
+border-radius: 5px;
+box-sizing: border-box;
+margin: 0 10px;
+}
+
+.Finished ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul li div{
+    display: block;
+    margin-left: 10px;
+    height: 10px;
+    width: 10px;
+}
+
+.success{
+    display: inline-block;
+    background-color: green;
+    border: 2px solid #fff;
+    border-radius: 50%;
+}
+
+.error{
+    display: inline-block;
+    background-color: red;
+    border: 2px solid #fff;
+    border-radius: 50%;
+}
